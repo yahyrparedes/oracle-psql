@@ -1,0 +1,10 @@
+# Oracle 19c
+## Enter values for variables from prompt
+
+- Open your **ORACLE SQL Developer**
+
+```oracle
+DEFINE username  = &1
+DEFINE pass  = &1
+/
+ ```
